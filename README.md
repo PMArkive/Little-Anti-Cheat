@@ -85,7 +85,9 @@ Simply move that binary to your plugins folder, and you are good to go.
  - Spanish (by ALEJANDRO ^-^).
  - Ukrainian (by panikajo ;D).
  - Polish (by https://github.com/qawery-just-sad).
- - Turkish (by ShiroNje and R3nzTheCodeGOD).\
+ - Turkish (by ShiroNje and R3nzTheCodeGOD).
+ - Hungarian (by The Solid Lad).
+ - Swedish (by Teamkiller324).\
 \
 I do hope to add more languages in the future.\
 But at least you can add or improve on the translations already provided.\
