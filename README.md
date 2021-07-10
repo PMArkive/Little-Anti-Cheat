@@ -26,6 +26,7 @@ This Anti-Cheat is by no means perfect, and it is bypassable to some extent, but
 
 ### Supported Games:
  - [TF2] Team Fortress 2
+ - [TF2C] Team Fortress 2 Classic \* (See notes below)
  - [CS:GO] Counter-Strike:Global Offensive
  - [CS:S] Counter-Strike:Source
  - [L4D2] Left 4 Dead 2
@@ -34,6 +35,8 @@ This Anti-Cheat is by no means perfect, and it is bypassable to some extent, but
 
 ### Untested, but should work in:
  - [HL2:DM] Half-Life 2:DeathMatch
+
+---
 
 ## Non-Steam versions / CS:S v34 / CS:S v91 / ETC...
 Non-Steam versions (IE: Cracks) **ARE NOT SUPPORTED!**\
@@ -45,6 +48,20 @@ I'm sorry, but Little Anti-Cheat will not work for cracks/non-steam versions.\
 And support will never come from me officially.
 
 The same goes for other games, non-steam / cracks aren't supported.
+
+---
+
+## Team Fortress 2 Classic:
+The binary plugin provided won't work for TF2C.\
+In order to install Lilac for TF2C, you need to compile the plugin yourself.\
+**Like so:** \
+Linux: `$ ./spcomp64 lilac.sp TF2C= ` \
+Windows: ` spcomp64 lilac.sp TF2C= `
+
+This will create the binary plugin in your **scripting** folder.\
+Simply move that binary to your plugins folder, and you are good to go.
+
+---
 
 ### Credits / Special Thanks to:
  - J_Tanzanite... Yeah I'm crediting myself for writing this AC...
